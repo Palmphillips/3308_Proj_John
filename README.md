@@ -1,4 +1,4 @@
 # 3308_Proj_John
 
-#ChangeLog WIll go here
+#JOHN PHILLIPS LAB 4 GIT ASSIGNMENT
 Web Browser App
